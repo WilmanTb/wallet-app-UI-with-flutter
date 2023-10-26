@@ -1,16 +1,14 @@
 # walletapp
 
-A new Flutter project.
+A Simple Wallet App UI Build With Flutter
 
-## Getting Started
+![Screenshot 2023-10-26 122407](https://github.com/WilmanTb/wallet-app-UI-with-flutter/assets/148366527/f8c37577-b5f0-458f-b99b-079eb5a40359)
+# Dependencies
+1. Smooth Page Indicator
+2. Curved Navigation Bar
 
-This project is a starting point for a Flutter application.
+![ezgif com-video-to-gif (1)](https://github.com/WilmanTb/wallet-app-UI-with-flutter/assets/148366527/d3d2862b-a715-4518-b2c6-26462afccec8)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
